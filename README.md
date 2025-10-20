@@ -1,5 +1,5 @@
 # OFDM_system
-matlab simulation of sender and reciever in OFDM system  for wireless digital communications
+MATLAB simulation of transmitter and reciever in OFDM system  for wireless digital communications.
 ## OFDM system Block diagram
 
 ![image](https://github.com/user-attachments/assets/231aa8dc-8ba6-4952-8a31-b1a58268edb6)
